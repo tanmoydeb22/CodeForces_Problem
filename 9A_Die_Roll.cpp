@@ -4,6 +4,7 @@ using namespace std;
 int main()
 {
     int Y, W;
+    
     cin >> Y >> W;
 
     int mx = max(Y, W);

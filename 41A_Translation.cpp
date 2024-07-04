@@ -5,8 +5,10 @@ int main()
 {
     string s1;
     string s2;
+
     cin>>s1;
     cin>>s2;
+    
     int x=s2.size()-1, y=0;
     for (int i=0; i<s1.size(); i++)
     {

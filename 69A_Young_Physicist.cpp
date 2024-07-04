@@ -14,6 +14,7 @@ int main()
         q += y;
         r += z;
     }
+    // emni
     if(p==0 && q==0 && r==0)
     {
         cout<<"YES"<<endl;
